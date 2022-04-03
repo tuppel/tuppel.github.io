@@ -1,5 +1,3 @@
-# Tuppel AS
-
 ## Programvarekonsulent
 
 Jonathan Feinberg
