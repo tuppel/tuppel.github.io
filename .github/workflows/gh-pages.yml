@@ -15,6 +15,9 @@ jobs:
           submodules: true
           fetch-depth: 0
 
+      - name: Dependencies
+        run: npm i -g postcss postcss-cli autoprefixer
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
