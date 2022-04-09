@@ -1,0 +1,11 @@
+#front-index { color: #4a6373; }
+#logo-orange { stroke: #de935f; }
+#logo-stroke { stroke: #4a6373; }
+#C { fill: #4a6373; }
+
+@media (prefers-color-scheme: dark)
+{
+  #front-index { color: #2d3c46; }
+  #logo-stroke { stroke: #2d3c46; }
+  #C { fill: #2d3c46; }
+}
