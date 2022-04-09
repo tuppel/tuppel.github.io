@@ -1,5 +1,5 @@
 ---
-title: Tuppel AS
+title: "Tuppel"
 headless: true
 weight: 0
 ---
